@@ -1,0 +1,73 @@
+h1 {
+    font-size: 95px;
+    font-family: impact;
+    letter-spacing: 2px;
+    color: darkred;
+    margin: 70px 0 0 0;
+}
+
+h2 {
+    font-size: 40px;
+    font-family: arial;
+    color: darkblue;
+    margin: 20px 0 50px 0;
+}
+
+.title {
+    text-align: center;
+    padding: 0;
+}
+
+.bio {
+    text-align: center;
+    font-size: 25px;
+    font-family: arial;
+    color: darkblue;
+    padding: 0 20px 40px 20px;
+    margin: 0;
+}
+
+section {
+    column-width: 33rem;
+    text-align: center;
+}
+
+body {
+    background-color: lightslategrey;
+}
+
+footer {
+    text-align: center;
+    column-width: 25rem;
+    color: darkblue;
+    padding: 0;
+    margin: 10px auto;
+}
+
+.free, .monthly, .yearly {
+    border: 4px solid darkblue;
+    font-family: arial;
+    color: darkblue;
+    font-size: 20px;
+    padding: 0;
+    margin: 0 150px;
+}
+
+ul {
+    list-style-type: none;
+    font-family: arial;
+    color: darkblue;
+    font-size: 18px;
+    padding: 0;
+    margin: 20px 0 100px 0;
+}
+
+.btn {
+    background-color: darkblue;
+    color: antiquewhite;
+    border: solid darkblue;
+}
+
+.free:hover, .monthly:hover, .yearly:hover {
+    background-color: darkred;
+}
