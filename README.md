@@ -1,1 +1,1 @@
-# sports-entertainment-landingpage
+This is my landing page template for the fictional company Sports Entertainment. Thank you for reading :)
